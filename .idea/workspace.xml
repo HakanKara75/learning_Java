@@ -5,20 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf9b9cf6-133f-4374-afc4-8554b31dfb8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part10_Return_Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part10_Return_Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part11_BuiltIn_Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part11_BuiltIn_Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part11_Salary_Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part11_Salary_Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part13_Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part13_Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part1_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part1_Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part2_Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part2_Print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part4_IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part4_IfStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part5_while_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part5_while_loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part6_scan_if.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part6_scan_if.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part7_challenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part7_challenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part8_Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part8_Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part9_Dinamic_Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part9_Dinamic_Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/part12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/part12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/part12/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/part12/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -28,7 +48,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2MSBUvbDI1Q3gpWBRYdXgGjCQSj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,11 +59,63 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/HakanBatirhan/IdeaProjects/Java_Bilgiler",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Ma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ma" />
+      <module name="learning_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part12.Main" />
+      <module name="learning_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part8_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part8_Functions" />
+      <module name="learning_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part9_Dinamic_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part9_Dinamic_Functions" />
+      <module name="learning_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Ma" />
+        <item itemvalue="Application.Part9_Dinamic_Functions" />
+        <item itemvalue="Application.Part8_Functions" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,5 +126,21 @@
       <updated>1677751124204</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Part6_scan_if.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/part12/Triangle.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

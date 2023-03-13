@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public class Part11_Scratch_Function {
+public class Part11_BuiltIn_Function {
+    public static void main(String[] args) {
+       double result= Math.pow(2,5);
+        System.out.println(result);
+
+
+
+
+    }
 }

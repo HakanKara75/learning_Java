@@ -1,7 +1,6 @@
-import java.util.Locale;
 import java.util.Scanner;
 
-public class Part6 {
+public class Part6_scan_if {
     public static void main(String[] args) {
         String question="What is the largest planet in our solar system?";
         String choiceOne="earth";

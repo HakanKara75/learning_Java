@@ -1,4 +1,4 @@
-public class Main {
+public class Part1_Variable {
     public static void main(String[] args) {
         System.out.println("Hello world from the Intellij IDE");
        int studentAge=15;
